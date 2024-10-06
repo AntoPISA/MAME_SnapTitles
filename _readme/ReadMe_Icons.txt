@@ -8,21 +8,22 @@
   |_|              |___/     
                          MAME Resources Project
   ====================================================================================
-  Project name: Icons Extended (file type: ico)                         Version: 0.258
+  Project name: Icons Extended (file type: ico)                         Version: 0.269
   ====================================================================================
   This collection is called "icons" and is composed  of icons relating to the machines
   emulated by MAME. Put files .ico in the "icons" folder or compacted  into  a  single
   zip file called "icons.zip"  in the same place folder.  Credits:  from  an  idea  of
   ​MAMu_ (from http://icons.mameworld.info/ ),  this  collection  has  been expanded in
-  recent years thanks to my contribution is that of Anna Wu and Janez.
+  recent years thanks to my contribution.
 
 
   What's new:
   ┌────────────┬───────┬────────┬────────┬─────────┬─────────┬─────┬──────────────────────────────────────
   │ Date       │  Del  │   New  │  Upd   │  Total  │ Release │  #  │ Note
   ├────────────┼───────┼────────┼────────┼─────────┼─────────┼─────┼──────────────────────────────────────
-  │ 17/09/2023 │ 5,748 │    842 │      4 │  38,800 │   0.249 │  37 │ <- Latest release.
+  │ 15/09/2024 │    19 │    369 │     31 │  34,000 │   0.269 │  38 │ <- Latest release.
   ├────────────┼───────┼────────┼────────┼─────────┼─────────┼─────┼──────────────────────────────────────
+  │ 17/09/2023 │ 5,748 │    598 │      4 │  33,650 │   0.258 │  37 │
   │ 20/11/2022 │    42 │    842 │      4 │  38,800 │   0.249 │  36 │
   │ 17/10/2021 │    17 │    537 │      0 │  38,000 │   0.236 │  35 │
   │ 18/04/2021 │    51 │  1,231 │     13 │  37,480 │   0.230 │  34 │
@@ -67,4 +68,4 @@
   MAMu_, Anna Wu and Janez.
 
 
-  progetto-SNAPS © 2014/2023 AntoPISA - https://www.progettosnaps.net/icons/
+  progetto-SNAPS © 2014/2024 AntoPISA - https://www.progettosnaps.net/icons/
