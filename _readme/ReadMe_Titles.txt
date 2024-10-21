@@ -11,16 +11,15 @@
   Project name: Titles (file type: png)                                Version: 0.270
   ===================================================================================
   This collection is called "Titles" and consists of images relating to the introduc-
-  tory screens of the various games emulated by MAME.
-  Thanks to Mucci for the great idea!
-  The collection has been updated constantly by AntoPISA.
-  To view this file correctly use the "Courier New" font.
+  tory screens of the various games emulated by MAME.   Thanks to Mucci for the great
+  idea! The collection has been updated constantly by AntoPISA.
+  To view this file correctly Use a single-space font.
 
   What's new:
   ┌────────────┬─────┬───────┬────────┬────────┬──────────┬─────┬─────────────────────────────────
   │ Date       │ Del │  New  │   Upd  │ Total  │  Release │  #  │ Note
   ├────────────┼─────┼───────┼────────┼────────┼──────────┼─────┼─────────────────────────────────
-  │ 00/10/2024 │   0 │     0 │      0 │ 47,xxx │   0.270  │ 118 │ <- Eighteenth repack; latest release.
+  │ 20/10/2024 │   0 │    91 │     31 │ 47,174 │   0.270  │ 118 │ <- Eighteenth repack; latest release.
   ├────────────┼─────┼───────┼────────┼────────┼──────────┼─────┼─────────────────────────────────
   │ 15/09/2024 │   9 │   259 │     79 │ 47,083 │   0.269  │ 117 │
   │ 30/06/2024 │   5 │   144 │     38 │ 46,833 │   0.266  │ 116 │
@@ -147,6 +146,7 @@
   Where the collections and the updates can be downloaded:
   -----------------------------------------------------------------
   https://www.progettosnaps.net/snapshots/
+  https://github.com/AntoPISA/MAME_SnapTitles
 
 
   Where to leave your comments:
