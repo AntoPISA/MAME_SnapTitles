@@ -1,4 +1,4 @@
-                              _   _              _____ _   _          _____   _____ 
+﻿                              _   _              _____ _   _          _____   _____ 
     AntoPISA's              │ | | |            / ____| \ | |   /\  │  __ \ / ____|
    _ __  _ __ ___   __ _  ___| |_| |_ ___ _____| (___ |  \| |  /  \  | |__) | (___  
   | '_ \| '__/ _ \ / _` |/ _ \ __| __/ _ \______\___ \| . ` | / /\ \ |  ___/ \___ \ 
@@ -8,19 +8,22 @@
   |_|              |___/     
                          MAME Resources Project
   ===================================================================================
-  Project name: Titles (file type: png)                                Version: 0.270
+  Project name: Titles (file type: png)                                Version: 0.272
   ===================================================================================
   This collection is called "Titles" and consists of images relating to the introduc-
   tory screens of the various games emulated by MAME.   Thanks to Mucci for the great
   idea! The collection has been updated constantly by AntoPISA.
   To view this file correctly Use a single-space font.
+  Images of the games are freely distributable under current  "fair use"  regulations
+  since these images represent only a fraction of the games depicted.
 
   What's new:
   ┌────────────┬─────┬───────┬────────┬────────┬──────────┬─────┬─────────────────────────────────
   │ Date       │ Del │  New  │   Upd  │ Total  │  Release │  #  │ Note
   ├────────────┼─────┼───────┼────────┼────────┼──────────┼─────┼─────────────────────────────────
-  │ 20/10/2024 │   0 │    91 │     31 │ 47,174 │   0.270  │ 118 │ <- Eighteenth repack; latest release.
+  │ 31/12/2024 │   3 │   344 │     46 │ 47,515 │   0.272  │ 119 │ <- Latest release.
   ├────────────┼─────┼───────┼────────┼────────┼──────────┼─────┼─────────────────────────────────
+  │ 20/10/2024 │   0 │    91 │     31 │ 47,174 │   0.270  │ 118 │ Eighteenth repack!
   │ 15/09/2024 │   9 │   259 │     79 │ 47,083 │   0.269  │ 117 │
   │ 30/06/2024 │   5 │   144 │     38 │ 46,833 │   0.266  │ 116 │
   │ 24/04/2024 │   5 │   235 │     15 │ 46,694 │   0.264  │ 115 │
@@ -179,4 +182,4 @@
   SWOS and  Twisty.
 
 
-  progetto-SNAPS © 2008/2024 AntoPISA - https://www.progettosnaps.net/snapshots/
+  © progetto-SNAPS 2008/2024 AntoPISA - https://www.progettosnaps.net/snapshots/

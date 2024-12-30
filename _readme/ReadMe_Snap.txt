@@ -1,4 +1,4 @@
-                              _   _              _____ _   _          _____   _____ 
+﻿                              _   _              _____ _   _          _____   _____ 
     AntoPISA's               | | | |            / ____| \ | |   /\   |  __ \ / ____|
    _ __  _ __ ___   __ _  ___| |_| |_ ___ _____| (___ |  \| |  /  \  | |__) | (___  
   | '_ \| '__/ _ \ / _` |/ _ \ __| __/ _ \______\___ \| . ` | / /\ \ |  ___/ \___ \ 
@@ -8,44 +8,47 @@
   |_|              |___/     
                          MAME Resources Project
   ===================================================================================
-  Project name: Snap (file type: png)                                  Version: 0.270
+  Project name: Snap (file type: png)                                  Version: 0.272
   ===================================================================================
   This collection is called  "InGame" and consists of images relating to the most re-
   presentative of the various games emulated by MAME. The collection was the first to
   be born, out of "progetto-SNAPS" and inspired by the work of HitF12 and  CrashTest.
-  From 0.170 this collection is merged with "Snap (Boot Screen)" from MESS.
-  The collection has been updated constantly by AntoPISA.
-  To view this file correctly use the "Courier New" font.
+  From 0.170 this collection is merged with "Snap (Boot Screen)" from MESS.  The col-
+  lection has been updated constantly by AntoPISA. To view  this file  correctly  use
+  a monospace font. Images of the games are freely distributable under current  "fair
+  use" regulations since these images represent only a fraction  of  the  games depi-
+  cted.
 
   Summary of years which the images were created:
   ===================================================================================
   2006:    100 png           / Cycle 0.104   > 0.111u1
   2007:      0 png           / Cycle 0.111u2 > 0.122u2
-  2008:  3,920 png (-    14) / Cycle 0.122u3 > 0.128u7
-  2009:  1,529 png (-     2) / Cycle 0.129   > 0.135u4 
-  2010:    991 png           / Cycle 0.136   > 0.140u3
+  2008:  3,912 png (-     8) / Cycle 0.122u3 > 0.128u7
+  2009:  1,526 png (-     3) / Cycle 0.129   > 0.135u4 
+  2010:    990 png (-     1) / Cycle 0.136   > 0.140u3
   2011:    741 png           / Cycle 0.141   > 0.144u4
-  2012:    773 png (-     1) / Cycle 0.144u5 > 0.147u4
-  2013:    582 png (-     1) / Cycle 0.148   > 0.152
-  2014:    764 png           / Cycle 0.152   > 0.157
-  2015:  1,865 png (-     2) / Cycle 0.157   > 0.169
-  2016:  2,844 png (-     1) / Cycle 0.169   > 0.181
-  2017:  1,315 png           / Cycle 0.181   > 0.193
-  2018:  2,190 png (-     6) / Cycle 0.193   > 0.205
-  2019:  1,407 png           / Cycle 0.205   > 0.217
-  2020:  1,319 png (-     1) / Cycle 0.217   > 0.227
-  2021:  1,998 png (-     2) / Cycle 0.227   > 0.239
-  2022:  2,089 png           / Cycle 0.239   > 0.251
-  2023: 21,541 png           / Cycle 0.251   > 0.261 
-  2024:  1,206 png (+   121) / Cycle 0.262   > Latest 
+  2012:    773 png           / Cycle 0.144u5 > 0.147u4
+  2013:    581 png (-     1) / Cycle 0.148   > 0.152
+  2014:    763 png (-     1) / Cycle 0.152   > 0.157
+  2015:  1,865 png           / Cycle 0.157   > 0.169
+  2016:  2,844 png           / Cycle 0.169   > 0.181
+  2017:  1,311 png (-     4) / Cycle 0.181   > 0.193
+  2018:  2,188 png (-     2) / Cycle 0.193   > 0.205
+  2019:  1,404 png (-     3) / Cycle 0.205   > 0.217
+  2020:  1,313 png (-     6) / Cycle 0.217   > 0.227
+  2021:  1,996 png (-     2) / Cycle 0.227   > 0.239
+  2022:  2,088 png (-     1) / Cycle 0.239   > 0.251
+  2023: 21,523 png (-    18) / Cycle 0.251   > 0.261 
+  2024:  1,597 png (+   391) / Cycle 0.262   > Latest 
 
 
    What's new:
   ┌────────────┬─────┬───────┬────────┬────────┬──────────┬─────┬───────────────────────────────────────
   │ Date       │ Del │  New  │   Upd  │ Total  │ Release  │  #  │ Note
   ├────────────┼─────┼───────┼────────┼────────┼──────────┼─────┼───────────────────────────────────────
-  │ 20/10/2024 │   0 │    91 │     43 │ 47,174 │  0.270   │ 118 │ <- Eighteenth repack; latest release.
+  │ 31/12/2024 │   3 │   344 │     50 │ 47,515 │  0.272   │ 119 │ <- Latest release.
   ├────────────┼─────┼───────┼────────┼────────┼──────────┼─────┼───────────────────────────────────────
+  │ 20/10/2024 │   0 │    91 │     43 │ 47,174 │  0.270   │ 118 │ Eighteenth repack!
   │ 15/09/2024 │   9 │   259 │     67 │ 47,083 │  0.269   │ 117 │
   │ 30/06/2024 │   5 │   144 │     68 │ 46,833 │  0.266   │ 116 │
   │ 24/04/2024 │   5 │   235 │     32 │ 46,694 │  0.264   │ 115 │
@@ -201,4 +204,4 @@
   Karasu, BIOS-D, xibic, alien_mame, Stiletto, swos, Twisty.
 
 
-  progetto-SNAPS © 2008/2024 AntoPISA - https://www.progettosnaps.net/snapshots/
+  © progetto-SNAPS 2008/2024 AntoPISA - https://www.progettosnaps.net/snapshots/
