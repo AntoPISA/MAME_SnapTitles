@@ -8,7 +8,7 @@
   |_|              |___/     
                          MAME Resources Project
   ===================================================================================
-  Project name: Titles (file type: png)                                Version: 0.272
+  Project name: Titles (file type: png)                                Version: 0.276
   ===================================================================================
   This collection is called "Titles" and consists of images relating to the introduc-
   tory screens of the various games emulated by MAME.   Thanks to Mucci for the great
@@ -21,8 +21,9 @@
   ┌────────────┬─────┬───────┬────────┬────────┬──────────┬─────┬─────────────────────────────────
   │ Date       │ Del │  New  │   Upd  │ Total  │  Release │  #  │ Note
   ├────────────┼─────┼───────┼────────┼────────┼──────────┼─────┼─────────────────────────────────
-  │ 31/12/2024 │   3 │   344 │     46 │ 47,515 │   0.272  │ 119 │ <- Latest release.
+  │ 20/04/2025 │  17 │   299 │     43 │ 47,800 │   0.276  │ 120 │ <- Latest release.
   ├────────────┼─────┼───────┼────────┼────────┼──────────┼─────┼─────────────────────────────────
+  │ 31/12/2024 │   3 │   344 │     46 │ 47,515 │   0.272  │ 119 │
   │ 20/10/2024 │   0 │    91 │     31 │ 47,174 │   0.270  │ 118 │ Eighteenth repack!
   │ 15/09/2024 │   9 │   259 │     79 │ 47,083 │   0.269  │ 117 │
   │ 30/06/2024 │   5 │   144 │     38 │ 46,833 │   0.266  │ 116 │
@@ -182,4 +183,4 @@
   SWOS and  Twisty.
 
 
-  © progetto-SNAPS 2008/2024 AntoPISA - https://www.progettosnaps.net/snapshots/
+  © progetto-SNAPS 2008/2025 AntoPISA - https://www.progettosnaps.net/snapshots/
