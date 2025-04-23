@@ -72,7 +72,21 @@ def ensure_table_exists(conn, table_name):
     finally:
         cursor.close()
 
-# Funzione per inserire i nomi dei file nella tabella con contatore di progresso
+# Funzione per svuotare una tabella
+def clear_table(conn, table_name):
+    cursor = conn.cursor()
+    try:
+        # Svuota la tabella
+        cursor.execute(f"DELETE FROM [{table_name}]")
+        conn.commit()
+        logging.info(f"Tabella '{table_name}' svuotata.")
+    except Exception as e:
+        logging.error(f"Errore durante lo svuotamento della tabella '{table_name}': {e}")
+        conn.rollback()
+    finally:
+        cursor.close()
+
+# Funzione per inserire i nomi dei file nella tabella
 def insert_file_names(conn, folder_path, table_name):
     cursor = conn.cursor()
     try:
@@ -86,11 +100,8 @@ def insert_file_names(conn, folder_path, table_name):
         logging.info(f"Elaborazione della cartella '{table_name}' - File PNG trovati: {total_files}")
         
         # Inserisci ogni nome di file (senza estensione) nella tabella
-        for index, file_name in enumerate(files_no_extension, start=1):
+        for file_name in files_no_extension:
             cursor.execute(f"INSERT INTO [{table_name}] ([{table_name}]) VALUES (?)", file_name)
-            
-            # Aggiorna il contatore di progresso
-            logging.info(f"Progresso: {index}/{total_files} - File elaborato: {file_name}")
         
         # Conferma le modifiche
         conn.commit()
@@ -139,6 +150,9 @@ def main():
                 
                 # Verifica e crea la tabella se necessario
                 ensure_table_exists(conn, table_name)
+                
+                # Svuota la tabella prima di inserire nuovi dati
+                clear_table(conn, table_name)
                 
                 # Inserisci i nomi dei file nella tabella
                 insert_file_names(conn, folder_path, table_name)
